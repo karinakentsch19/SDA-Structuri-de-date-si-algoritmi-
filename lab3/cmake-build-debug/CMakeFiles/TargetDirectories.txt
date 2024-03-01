@@ -1,0 +1,3 @@
+C:/Karina - Synced/UBB KENTSCH KARINA/SEMESTRU 2/SDA/lab3/cmake-build-debug/CMakeFiles/lab3.dir
+C:/Karina - Synced/UBB KENTSCH KARINA/SEMESTRU 2/SDA/lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Karina - Synced/UBB KENTSCH KARINA/SEMESTRU 2/SDA/lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
